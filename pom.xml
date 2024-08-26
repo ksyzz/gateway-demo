@@ -29,7 +29,7 @@
         <dubbo.version>2.6.4</dubbo.version>
         <netty-all.version>4.1.32.Final</netty-all.version>
         <dubbo-registry-nacos.version>0.0.1</dubbo-registry-nacos.version>
-        <swagger.version>2.9.2</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <dubbo-spring-boot-starter.version>0.2.1.RELEASE</dubbo-spring-boot-starter.version>
         <spring-cloud.version>Greenwich.SR1</spring-cloud.version>
         <fescar.version>0.4.0</fescar.version>
